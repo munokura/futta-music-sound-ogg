@@ -1,0 +1,47 @@
+▼このファイルについて
+藤田 紘久氏が配布しているmidiファイルにループ処理を施し、oggに変換したものをパッケージしました。
+
+▼オリジナル配布元
+http://music.futta.net/
+
+
+▼利用規約
+マテリアル・コモンズ・ブルー・ライセンス
+https://materialcommons.tk/mtcm-b-summary/
+
+
+▼表示クレジット
+編集: fungamemake.com (著作者:藤田 紘久)
+
+
+▼ファイル名と曲名
+BGMは基本的に一度曲が終わるタイプです。
+
+BGM(ループ無):15
+ME:6
+
+ファイル名                  曲名
+BGM
+futta-fireplace.mid	Fireplace
+futta-greensleeves.mid	Greensleeves
+futta-lafilleauxcheveuxdelin.mid	La Fille aux Cheveux de Lin
+futta-lifetime.mid	Lifetime
+futta-memory.mid	Treasured Memory
+futta-overcoming.mid	Overcoming
+futta-rainbow.mid	Rainbow, Last Hurrah
+futta-resort.mid	Seaside Resort
+futta-salutdamour.mid	Salut d'amour
+futta-siciliana.mid	Siciliana
+futta-snowman.mid	Melting Snowman
+futta-songecreux.mid	Songe Creux
+futta-sunset.mid	Sunset Clouds
+futta-themanilove.mid	The Man I Love
+futta-wind.mid	Autumn Wind
+
+ME
+futta-dream.mid	Live the Dream
+futta-fanfare.mid	Fanfare
+futta-gameover.mid	Game Over
+futta-gameoverb.mid	Game Over 2
+futta-goodnight.mid	Good Night
+futta-prayer.mid	Prayer
